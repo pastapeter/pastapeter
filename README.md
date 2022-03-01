@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&height=200&section=header&text=Dohyun%20&fontSize=90)
-
-
 <h3 align="center">HI My Name is Dohyun👋</h3>
 <p align="center">
 I'm currently a Third year CAU Student in Seoul and Mobile App Developer using iOS 🍎.
@@ -26,3 +23,12 @@ I'm currently a Third year CAU Student in Seoul and Mobile App Developer using i
 <p align="center">
 I'm Currently Interested in TDD, Rxswift, Design Patterns, App Architectures. 🚀&nbsp&nbsp&nbsp
 </p>
+
+<h3 align="center"> My Github Stats </h3>
+<div align="center">
+  
+![pastapeter's GitHub stats](https://github-readme-stats.vercel.app/api?username=pastapeter&show_icons=true&theme=default)
+[![pastapeter's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pastapeter&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/pastapeter)
+
+
+</div>

@@ -26,7 +26,3 @@ I'm currently a Third year CAU Student in Seoul and Mobile App Developer using i
 <p align="center">
 I'm Currently Interested in TDD, Rxswift, Design Patterns, App Architectures. 🚀&nbsp&nbsp&nbsp
 </p>
-
-
-![pastapeter's github stats](https://github-readme-stats.vercel.app/api?username=pastapeter&show_icons=true)
-[![pastapeter's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pastapeter&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/pastapeter)

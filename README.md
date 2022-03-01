@@ -1,4 +1,4 @@
-<h3 align="center">HI My Name is Dohyun👋</h3>
+<h3 align="center">Hi, My Name is Dohyun👋</h3>
 <p align="center">
 I'm currently a Third year CAU Student in Seoul and Mobile App Developer using iOS 🍎.
 </p>  

@@ -21,7 +21,7 @@ I'm currently a Third year CAU Student in Seoul and Mobile App Developer using i
 <h3 align="center">My Current Interest 🐤 </h3>
 
 <p align="center">
-I'm Currently Interested in TDD, Rxswift, Design Patterns, App Architectures. 🚀&nbsp&nbsp&nbsp
+I'm Currently Interested in Unit Test, Rxswift, Design Patterns, App Architectures. 🚀&nbsp&nbsp&nbsp
 </p>
 
 <h3 align="center"> My Github Stats </h3>

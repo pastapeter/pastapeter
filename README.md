@@ -2,6 +2,11 @@
 <p align="center">
 I'm currently a Third year CAU Student in Seoul and Mobile App Developer using iOS 🍎.
 </p>  
+
+<p align="center">
+I'm currently in Purdue University as an Student Intern.
+</p>  
+
 <p align="center">
 <a href="https://www.instagram.com/dhyunni_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
 <a href="mailto:a01054140593@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=a01054140593@gmail.com"/></a>&nbsp

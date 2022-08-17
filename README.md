@@ -4,7 +4,7 @@ I'm currently a Third year CAU Student in Seoul and Mobile App Developer using i
 </p>  
 
 <p align="center">
-I'm currently in Purdue University as an Student Intern.
+I was in Purdue University as an Student Intern.
 </p>  
 
 <p align="center">
@@ -27,7 +27,7 @@ I'm currently in Purdue University as an Student Intern.
 <h3 align="center">My Current Interest 🐤 </h3>
 
 <p align="center">
-I'm Currently Interested in Unit Test, Rxswift, Design Patterns, App Architectures. 🚀&nbsp&nbsp&nbsp
+I'm Currently Interested in Rxswift, Design Patterns, App Architectures. 🚀&nbsp&nbsp&nbsp
 </p>
 
 <h3 align="center"> My Github Stats </h3>

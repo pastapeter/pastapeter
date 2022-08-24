@@ -33,7 +33,6 @@ I'm Currently Interested in Rxswift, Design Patterns, App Architectures. 🚀&nb
 <h3 align="center"> My Github Stats </h3>
 <div align="center">
   
-![pastapeter's GitHub stats](https://github-readme-stats.vercel.app/api?username=pastapeter&show_icons=true&theme=default)
 [![pastapeter's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pastapeter&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/pastapeter)
 
 

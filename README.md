@@ -35,10 +35,4 @@ I was in Purdue University as an Student Intern.
 [Project 'BEST', Beacon-based Indoor Fire Evacuation System using Augmented Reality and Machine Learning](https://github.com/BeaconAR/BEST) `iOS`, `Machine Learning`, `AR`
 
 
-<h3 align="left"> My Github Stats </h3>
-<div align="left">
-  
-[![pastapeter's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pastapeter&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/pastapeter)
-
-
 </div>

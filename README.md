@@ -1,6 +1,6 @@
 <h3 align="left">Hi, My Name is Dohyun👋</h3>
 <p align="left">
-I'm currently a Third year CAU Student in Seoul and Mobile App Developer using iOS 🍎.
+I'm currently senior in CAU and Mobile App Developer using iOS 🍎.
 </p>  
 
 <p align="left">

@@ -3,7 +3,10 @@
 I'm currently senior in CAU and Mobile App Developer using iOS 🍎.
 </p>  
 
-[Resume](https://guttural-tumble-39b.notion.site/8d4096d5ab5141bdb3caaff338ecdad3)
+<h3 align="left" >
+<a href='https://guttural-tumble-39b.notion.site/8d4096d5ab5141bdb3caaff338ecdad3'>Resume</a>
+</h3>
+
 
 <p align="left">
 <a href="https://www.instagram.com/dhyunni_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp

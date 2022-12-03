@@ -36,4 +36,7 @@ I'm currently senior in CAU and Mobile App Developer using iOS 🍎.
 [Project 'BEST', Beacon-based Indoor Fire Evacuation System using Augmented Reality and Machine Learning](https://github.com/BeaconAR/BEST) `iOS`, `Machine Learning`, `AR`
 
 
+<h3 align="left">Paper</h3>
+Beacon-based Indoor Fire Evacuation System using Augmented Reality and Machine Learning[IEEE IRC 2022]
+
 </div>

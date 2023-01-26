@@ -35,7 +35,7 @@ I'm currently senior in CAU and Mobile App Developer using iOS 🍎.
 
 [Project 'BEST', Beacon-based Indoor Fire Evacuation System using Augmented Reality and Machine Learning](https://github.com/BeaconAR/BEST) `iOS`, `Machine Learning`, `AR`
 
-[App 'Keyneez', App for verifying school ID and teenager ID card, App for informing benefits for youth](https://github.com/Keyneez/Keyneez-iOS)
+[App 'Keyneez', App for verifying school ID and teenager ID card, App for informing benefits for youth](https://github.com/Keyneez/Keyneez-iOS) `iOS`
 
 
 <h3 align="left">Paper</h3>

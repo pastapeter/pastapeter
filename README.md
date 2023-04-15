@@ -1,7 +1,4 @@
 <h3 align="left">Hi, My Name is Dohyun👋</h3>
-<p align="left">
-I'm currently senior in CAU and Mobile App Developer using iOS 🍎.
-</p>  
 
 <h3 align="left" >
 <a href='https://guttural-tumble-39b.notion.site/8d4096d5ab5141bdb3caaff338ecdad3'>Resume</a>

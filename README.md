@@ -14,6 +14,9 @@
 <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+
 </p>
 
 <h3 align="left">My Project 🐤 </h3>
@@ -27,6 +30,9 @@
 [Project 'BEST', Beacon-based Indoor Fire Evacuation System using Augmented Reality and Machine Learning](https://github.com/BeaconAR/BEST) `iOS`, `Machine Learning`, `AR`
 
 [App 'Keyneez', App for verifying school ID and teenager ID card, App for informing benefits for youth](https://github.com/Keyneez/Keyneez-iOS) `iOS`
+
+
+[현대자동차 소프티어 부트캠프 프로젝트 'CartaLog'](https://github.com/softeerbootcamp-2nd/H2-O) `iOS`
 
 
 <h3 align="left">Paper</h3>

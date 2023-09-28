@@ -1,11 +1,5 @@
 <h3 align="left">Hi, My Name is Dohyun👋</h3>
 
-<h3 align="left" >
-<a href='https://guttural-tumble-39b.notion.site/8d4096d5ab5141bdb3caaff338ecdad3'>Resume</a>
-<a href='https://guttural-tumble-39b.notion.site/iOS-684d91f80ff848d3bf94c9176b3aaae2'>Portfolio</a>
-</h3>
-
-
 <p align="left">
 <a href="https://www.instagram.com/dhyunni_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
 <a href="mailto:a01054140593@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=a01054140593@gmail.com"/></a>&nbsp

@@ -29,7 +29,7 @@
 [App 'Keyneez', App for verifying school ID and teenager ID card, App for informing benefits for youth](https://github.com/Keyneez/Keyneez-iOS) `iOS`
 
 
-[현대자동차 소프티어 부트캠프 프로젝트 'CartaLog'](https://github.com/softeerbootcamp-2nd/H2-O) `iOS`
+[Hyundai Motors Group Softeer Bootcamp 'CartaLog'](https://github.com/softeerbootcamp-2nd/H2-O) `iOS`
 
 
 <h3 align="left">Paper</h3>

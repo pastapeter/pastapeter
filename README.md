@@ -6,7 +6,7 @@
 </p>
 
 
-<h3 align="left">🔨 My Skills 🔨</h3>
+<h3 align="left">Skills</h3>
 
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -16,7 +16,7 @@
 
 </p>
 
-<h3 align="left">My Project 🐤 </h3>
+<h3 align="left">Projects</h3>
 
 [App '쫄래쫄래', App for people who wanna go travel with their pets](https://github.com/PET-P/zollezolle_ios) `iOS`
 
